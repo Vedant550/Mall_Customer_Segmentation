@@ -8,3 +8,10 @@ You are owing a supermarket mall and through membership cards , you have some ba
 
 You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
 
+# Technical Stack used
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- clustering algorithms 1. DBSCAN  2. KMeans
